@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterOAuth</string>
+    <string name="token_secret">アクセストークンシークレット</string>
+    <string name="token">アクセストークン</string>
+</resources>
